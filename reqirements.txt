@@ -1,0 +1,5 @@
+telegram/bot
+rubygems
+open-uri
+net/http
+json
